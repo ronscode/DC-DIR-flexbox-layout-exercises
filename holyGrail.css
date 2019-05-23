@@ -1,0 +1,39 @@
+html {
+  font-family: sans-serif;
+}
+body {
+  margin: 0;
+}
+header {
+  background: purple;
+  height: 100px;
+}
+footer {
+  background: lightseagreen;
+  height: 100px;
+}
+h1 {
+  text-align: center;
+  color: white;
+  line-height: 100px;
+  margin: 0;
+}
+article {
+  padding: 10px;
+  margin: 10px;
+  background: aqua;
+}
+
+.flex-container {
+  display: flex;
+  background-color: DodgerBlue;
+}
+
+section {
+  display: flex;
+  flex: 3;
+}
+
+.sideAd {
+  flex: 1;
+}
