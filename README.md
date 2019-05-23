@@ -1,8 +1,10 @@
 # CSS Layout Exercises
 
+Completed examples! Spoiler alert!
+
 These exercises are designed to practice doing layout using CSS with [flexbox].
 
-[flexbox]:https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+[flexbox]: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
 
 ## Problem #1 - "Holy Grail" Layout
 
@@ -10,8 +12,8 @@ Inside a file called `holy-grail.html`, create a [Holy Grail] layout using flexb
 
 **NOTE:** Due to the nature of this problem, there are many examples of this already done on the Internet. Honor system here; do not cheat. This is an example of a "real world" problem.
 
-[Holy Grail]:https://en.wikipedia.org/wiki/Holy_Grail_(web_design)
-[this image]:https://upload.wikimedia.org/wikipedia/commons/a/ad/HolyGrail.svg
+[holy grail]: https://en.wikipedia.org/wiki/Holy_Grail_(web_design)
+[this image]: https://upload.wikimedia.org/wikipedia/commons/a/ad/HolyGrail.svg
 
 ## Problem #2 - Chessboard
 
@@ -19,7 +21,7 @@ Inside a file called `chessboard.html`, create a [chessboard] using HTML and fle
 
 For an extra challenge, add some chess pieces on their starting positions. How can you do this semantically?
 
-[chessboard]:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/416px-Chessboard480.svg.png
+[chessboard]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/416px-Chessboard480.svg.png
 
 ## Problem #3 - Piet Mondrian Painting
 
@@ -31,8 +33,8 @@ If you're having trouble creating the whole thing, pick a "chunk" of the paintin
 
 Some students have found printing the image and numbering each rectangle helpful.
 
-[Piet Mondrian]:https://en.wikipedia.org/wiki/Piet_Mondrian
-[this Piet Mondrian painting]:https://raw.githubusercontent.com/oakmac/flexbox-layout-exercises/master/mondrian.jpg
+[piet mondrian]: https://en.wikipedia.org/wiki/Piet_Mondrian
+[this piet mondrian painting]: https://raw.githubusercontent.com/oakmac/flexbox-layout-exercises/master/mondrian.jpg
 
 ## License
 
